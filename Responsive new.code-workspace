@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../templatemo_536_dream_pulse"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "templatemo_536_dream_pulse"
+	}
+}
